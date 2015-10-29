@@ -6,3 +6,8 @@ td {
     border-color: darkred;border-style: solid;
 */
 }
+
+html,
+body {
+    font-family: Helvetica, Arial, sans-serif
+}
